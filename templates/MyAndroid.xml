@@ -1,11 +1,11 @@
 <templateSet group="MyAndroid">
-  <template name="singleInstance" value="private static $NAME$ instance = null;&#10;&#10;private $NAME$(){&#10;}&#10;&#10;public static $NAME$ getInstance() {&#10;    if (instance == null) {&#10;        synchronized ($NAME$.class) {&#10;            if (instance == null) {&#10;                instance = new $NAME$();&#10;            }&#10;        } &#10;    }&#10;    return instance;&#10;}" description="单例模式" toReformat="false" toShortenFQNames="true">
+  <template name="singleinstance" value="private static $NAME$ instance = null;&#10;&#10;private $NAME$(){&#10;}&#10;&#10;public static $NAME$ getInstance() {&#10;    if (instance == null) {&#10;        synchronized ($NAME$.class) {&#10;            if (instance == null) {&#10;                instance = new $NAME$();&#10;            }&#10;        } &#10;    }&#10;    return instance;&#10;}" description="单例模式" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="addListeners" value="private Set&lt;$LISTENER$&gt; mListeners;&#10;&#10;public boolean addListener($LISTENER$ listener){&#10;    if (listener == null) {&#10;        return false;&#10;    }&#10;&#10;    if (mListeners == null) {&#10;        mListeners = new HashSet&lt;&gt;();&#10;    }&#10;&#10;    boolean result = mListeners.add(listener);&#10;    if (!result) {&#10;        Log.w(TAG, &quot;addListener: add listener failure&quot;);&#10;    }&#10;&#10;    return result;&#10;}&#10;&#10;public boolean removeListener($LISTENER$ listener){&#10;    if (mListeners == null&#10;            || listener == null) {&#10;        Log.w(TAG, &quot;removeListener: listener or mListeners is null return&quot;);&#10;        return false;&#10;    }&#10;&#10;    boolean result = mListeners.remove(listener);&#10;    if (!result) {&#10;        Log.w(TAG, &quot;removeListener: remove listener failure&quot;);&#10;    }&#10;&#10;    return result;&#10;}" description="set listeners for a class, add. remove etc." toReformat="false" toShortenFQNames="true">
+  <template name="addlisteners" value="private Set&lt;$LISTENER$&gt; mListeners;&#10;&#10;public boolean addListener($LISTENER$ listener){&#10;    if (listener == null) {&#10;        return false;&#10;    }&#10;&#10;    if (mListeners == null) {&#10;        mListeners = new HashSet&lt;&gt;();&#10;    }&#10;&#10;    boolean result = mListeners.add(listener);&#10;    if (!result) {&#10;        Log.w(TAG, &quot;addListener: add listener failure&quot;);&#10;    }&#10;&#10;    return result;&#10;}&#10;&#10;public boolean removeListener($LISTENER$ listener){&#10;    if (mListeners == null&#10;            || listener == null) {&#10;        Log.w(TAG, &quot;removeListener: listener or mListeners is null return&quot;);&#10;        return false;&#10;    }&#10;&#10;    boolean result = mListeners.remove(listener);&#10;    if (!result) {&#10;        Log.w(TAG, &quot;removeListener: remove listener failure&quot;);&#10;    }&#10;&#10;    return result;&#10;}" description="set listeners for a class, add. remove etc." toReformat="false" toShortenFQNames="true">
     <variable name="LISTENER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -13,6 +13,11 @@
   </template>
   <template name="tag" value="private static final String TAG = &quot;$debugName$&quot;;" description="add debug TAG" toReformat="false" toShortenFQNames="true">
     <variable name="debugName" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="initview" value="private void initView(){&#10;        &#10;}" description="init view with no args" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
