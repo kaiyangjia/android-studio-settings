@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'app'" />
-    <option name="defaultScopeName" value="Module 'app'" />
+    <option name="customScope" value="Project 'MorAuto'" />
+    <option name="defaultScopeName" value="Project 'MorAuto'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'app'" />
+    <option name="SEARCH_SCOPE" value="Project 'MorAuto'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
