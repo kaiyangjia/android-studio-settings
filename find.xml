@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'MorAuto'" />
-    <option name="defaultScopeName" value="Project 'MorAuto'" />
+    <option name="customScope" value="Module 'mor-auto'" />
+    <option name="defaultScopeName" value="Module 'mor-auto'" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MorAuto'" />
+    <option name="SEARCH_SCOPE" value="Module 'mor-auto'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
