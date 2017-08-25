@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'mor-tv'" />
-    <option name="defaultScopeName" value="Module 'mor-tv'" />
+    <option name="customScope" value="Project 'mor-app3'" />
+    <option name="defaultScopeName" value="Project 'mor-app3'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'mor-tv'" />
+    <option name="SEARCH_SCOPE" value="Project 'mor-app3'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
