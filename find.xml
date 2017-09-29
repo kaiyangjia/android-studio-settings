@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'mor-app3'" />
-    <option name="defaultScopeName" value="Project 'mor-app3'" />
+    <option name="customScope" value="File '.../mor-mic/src/main/java/com/xiaomor/mor/app/mic/model/NLIWorker.java - [mor-mic]'" />
+    <option name="defaultScopeName" value="File '.../mor-mic/src/main/java/com/xiaomor/mor/app/mic/model/NLIWorker.java - [mor-mic]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'mor-app3'" />
+    <option name="SEARCH_SCOPE" value="File '.../mor-mic/src/main/java/com/xiaomor/mor/app/mic/model/NLIWorker.java - [mor-mic]'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
