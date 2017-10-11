@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../mor-auto/src/main/java/com/xiaomor/mor/app/auto/search/weather/SearchWeatherAdapter.java - [mor-auto]'" />
-    <option name="defaultScopeName" value="File '.../mor-auto/src/main/java/com/xiaomor/mor/app/auto/search/weather/SearchWeatherAdapter.java - [mor-auto]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../mor-auto/src/main/java/com/xiaomor/mor/app/auto/search/weather/SearchWeatherAdapter.java - [mor-auto]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
+    <option name="defaultScopeName" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
+    <option name="SEARCH_SCOPE" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
