@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
     <option name="defaultScopeName" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../.idea/inspectionProfiles/Project_Default.xml - [mor-app3]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
