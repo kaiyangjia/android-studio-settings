@@ -8,7 +8,9 @@
         <PlaceSettings />
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SYNC_BINARY_EDITOR_SETTINGS" value="false" />
+        </PlaceSettings>
       </entry>
       <entry key="DirDiff">
         <PlaceSettings />
