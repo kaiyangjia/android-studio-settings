@@ -22,4 +22,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="builder" value="public static class Builder {&#10;    private $Target$ mTarget;&#10;    &#10;    public Builder() {&#10;        mTarget = new $Target$();&#10;    }&#10;&#10;    public Builder $FiledName$($TYPE$ arg) {&#10;        mTarget.$FiledName$ = arg;&#10;        return this;&#10;    }&#10;    &#10;    public $Target$ build() {&#10;        return mTarget;&#10;    }&#10;}" description="add builder" toReformat="false" toShortenFQNames="true">
+    <variable name="Target" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="iterableComponentType(ArrayOrIterable)" defaultValue="" alwaysStopAt="true" />
+    <variable name="FiledName" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
