@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="TimeLogTransform" type="Groovy" />
+      <mapping pattern="EFFormCellView" type="JAVA" />
       <mapping pattern="00B5ED0F324441DE32B586F6CB1A2DC0" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="yzsttsmodel" type="PLAIN_TEXT" />
