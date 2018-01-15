@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="aar" approved="true" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="TimeLogTransform" type="Groovy" />
       <mapping pattern="EFFormCellView" type="JAVA" />
