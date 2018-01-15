@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="aar" approved="true" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="TimeLogTransform" type="Groovy" />
       <mapping pattern="EFFormCellView" type="JAVA" />
@@ -15,7 +14,6 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="00ACF991ACA2414AC9ABF00C140F3DC9" type="PLAIN_TEXT" />
       <mapping pattern="00AFF790F099294B718400BA041A90D2" type="PLAIN_TEXT" />
-      <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
