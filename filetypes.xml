@@ -9,6 +9,7 @@
       <mapping pattern="yzsttsmodel" type="PLAIN_TEXT" />
       <mapping pattern="模块依赖关系" type="PLAIN_TEXT" />
       <mapping pattern="000AD7138FA22CB640F6337848BABBE4" type="PLAIN_TEXT" />
+      <mapping pattern="publish" type="PLAIN_TEXT" />
       <mapping pattern="00ABADE46AB284A033DA2869895BA8DC" type="PLAIN_TEXT" />
       <mapping pattern="包以及类说明.md" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
