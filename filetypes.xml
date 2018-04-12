@@ -7,6 +7,7 @@
       <mapping pattern="00B5ED0F324441DE32B586F6CB1A2DC0" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="yzsttsmodel" type="PLAIN_TEXT" />
+      <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern="模块依赖关系" type="PLAIN_TEXT" />
       <mapping pattern="000AD7138FA22CB640F6337848BABBE4" type="PLAIN_TEXT" />
       <mapping pattern="publish" type="PLAIN_TEXT" />
