@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../mor-voice-lib/src/main/java/net/imoran/mor/voice/lib/cwr/CWRWorkerImpl.java [mor-voice-lib]'" />
+    <option name="defaultScopeName" value="File '.../mor-voice-lib/src/main/java/net/imoran/mor/voice/lib/cwr/CWRWorkerImpl.java [mor-voice-lib]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../mor-voice-lib/src/main/java/net/imoran/mor/voice/lib/cwr/CWRWorkerImpl.java [mor-voice-lib]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
