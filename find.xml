@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'wakeup-lib'" />
-    <option name="defaultScopeName" value="Module 'wakeup-lib'" />
-    <option name="SEARCH_SCOPE" value="Module 'wakeup-lib'" />
+    <option name="customScope" value="Project 'mor-voice-app'" />
+    <option name="defaultScopeName" value="Project 'mor-voice-app'" />
+    <option name="SEARCH_SCOPE" value="Project 'mor-voice-app'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
