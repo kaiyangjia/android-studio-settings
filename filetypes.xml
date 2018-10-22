@@ -1,30 +1,28 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="TimeLogTransform" type="Groovy" />
       <mapping pattern="EFFormCellView" type="JAVA" />
-      <mapping pattern="00ABADE46AB284A033DA2869895BA8DC" type="PLAIN_TEXT" />
-      <mapping pattern="000AD7138FA22CB640F6337848BABBE4" type="PLAIN_TEXT" />
-      <mapping pattern="rebuild" type="PLAIN_TEXT" />
-      <mapping pattern="00AFF790F099294B718400BA041A90D2" type="PLAIN_TEXT" />
-      <mapping pattern="publish" type="PLAIN_TEXT" />
-      <mapping pattern="yzsttsmodel" type="PLAIN_TEXT" />
-      <mapping pattern="installservice" type="PLAIN_TEXT" />
-      <mapping pattern="包以及类说明.md" type="PLAIN_TEXT" />
-      <mapping pattern="push" type="PLAIN_TEXT" />
-      <mapping pattern="rebuild_d" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern="模块依赖关系" type="PLAIN_TEXT" />
-      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
       <mapping pattern=".arcconfig.swp" type="PLAIN_TEXT" />
-      <mapping pattern="00B5ED0F324441DE32B586F6CB1A2DC0" type="PLAIN_TEXT" />
+      <mapping pattern="包以及类说明.md" type="PLAIN_TEXT" />
+      <mapping pattern="rebuild" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="installservice" type="PLAIN_TEXT" />
+      <mapping pattern=".arcconfig" type="PLAIN_TEXT" />
+      <mapping pattern="push" type="PLAIN_TEXT" />
       <mapping pattern="wakeup_word" type="PLAIN_TEXT" />
+      <mapping pattern="00B5ED0F324441DE32B586F6CB1A2DC0" type="PLAIN_TEXT" />
+      <mapping pattern="模块依赖关系" type="PLAIN_TEXT" />
+      <mapping pattern="yzsttsmodel" type="PLAIN_TEXT" />
+      <mapping pattern="rebuild_d" type="PLAIN_TEXT" />
+      <mapping pattern="publish" type="PLAIN_TEXT" />
+      <mapping pattern="000AD7138FA22CB640F6337848BABBE4" type="PLAIN_TEXT" />
+      <mapping pattern="00ABADE46AB284A033DA2869895BA8DC" type="PLAIN_TEXT" />
       <mapping pattern="00ACF991ACA2414AC9ABF00C140F3DC9" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping pattern="00AFF790F099294B718400BA041A90D2" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
