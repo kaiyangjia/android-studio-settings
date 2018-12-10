@@ -24,6 +24,7 @@
       <mapping pattern="包以及类说明.md" type="PLAIN_TEXT" />
       <mapping pattern="pub" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="nlicsv" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
