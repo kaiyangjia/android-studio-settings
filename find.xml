@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MorAuto-Map'" />
-    <option name="defaultScopeName" value="Project 'MorAuto-Map'" />
+    <option name="customScope" value="IOT API" />
+    <option name="defaultScopeName" value="IOT API" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MorAuto-Map'" />
+    <option name="SEARCH_SCOPE" value="IOT API" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
