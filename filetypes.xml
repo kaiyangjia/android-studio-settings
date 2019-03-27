@@ -32,6 +32,7 @@
       <mapping pattern="rebuild" type="PLAIN_TEXT" />
       <mapping pattern="包以及类说明.md" type="PLAIN_TEXT" />
       <mapping pattern="00AFF790F099294B718400BA041A90D2" type="PLAIN_TEXT" />
+      <mapping pattern="ASR接口文档.md" type="PLAIN_TEXT" />
       <mapping pattern="OTA字段说明" type="PLAIN_TEXT" />
       <mapping pattern="pub" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
